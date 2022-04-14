@@ -8,7 +8,7 @@ const Home = () => {
             <div className="cursor-1"></div>
             <div className="cursor-2"></div>
 
-            <div id="menu-bars" className="fas fa-bars"></div>
+            {/* <div id="menu-bars" className="fas fa-bars"></div> */}
 
             {/* Header section */}
 
