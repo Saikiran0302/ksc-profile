@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ksc-profile/static/css/main.13d17e9b.css",
+    "main.js": "/ksc-profile/static/js/main.9d34624c.js",
+    "static/js/787.b350451b.chunk.js": "/ksc-profile/static/js/787.b350451b.chunk.js",
+    "static/media/katepalli_sai_resume1.pdf": "/ksc-profile/static/media/katepalli_sai_resume1.b87baae3e944451cc169.pdf",
+    "static/media/saikiran_image21.jpeg": "/ksc-profile/static/media/saikiran_image21.584ea2f9f162f0c3791c.jpeg",
+    "static/media/saikiran_image.jpeg": "/ksc-profile/static/media/saikiran_image.f12013829c6bc7edbbd3.jpeg",
+    "index.html": "/ksc-profile/index.html",
+    "main.13d17e9b.css.map": "/ksc-profile/static/css/main.13d17e9b.css.map",
+    "main.9d34624c.js.map": "/ksc-profile/static/js/main.9d34624c.js.map",
+    "787.b350451b.chunk.js.map": "/ksc-profile/static/js/787.b350451b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13d17e9b.css",
+    "static/js/main.9d34624c.js"
+  ]
+}
